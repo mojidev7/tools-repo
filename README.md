@@ -6,6 +6,10 @@ necessary tools for developing
 
 [notepad++](https://notepad-plus-plus.org/downloads/)
 
+[atom](https://atom.io/)
+
+[bracket](http://brackets.io/)
+
 ## Extensions
 [live server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
@@ -15,7 +19,7 @@ necessary tools for developing
 
 [code runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
 
-## Console Emulator
+## Console Emulators
 [Cmder](https://cmder.net/)
 [ConEmu](https://conemu.github.io/)
 
