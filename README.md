@@ -1,5 +1,6 @@
 # Necessary tools for developing
 necessary tools for developing
+any good pr can be acceptable. 
 
 ## Editors
 [vscode](https://code.visualstudio.com/)
